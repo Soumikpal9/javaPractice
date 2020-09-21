@@ -1,0 +1,11 @@
+INFO  | 2020-09-20 23:47:27 | [main] javazz.App (App.java:16) - Hello, Worldwill be printed on info
+WARN  | 2020-09-20 23:47:27 | [main] javazz.App (App.java:17) - Hello, Worldwill be printed on warn
+ERROR | 2020-09-20 23:47:27 | [main] javazz.App (App.java:18) - Hello, Worldwill be printed on error
+FATAL | 2020-09-20 23:47:27 | [main] javazz.App (App.java:19) - Hello, Worldwill be printed on fatal
+INFO  | 2020-09-20 23:47:27 | [main] javazz.App (App.java:20) - Appending String Hello, World.
+DEBUG | 2020-09-20 23:47:51 | [main] javazz.App (App.java:15) - Hello, Worldwill be printed on debug
+INFO  | 2020-09-20 23:47:51 | [main] javazz.App (App.java:16) - Hello, Worldwill be printed on info
+WARN  | 2020-09-20 23:47:51 | [main] javazz.App (App.java:17) - Hello, Worldwill be printed on warn
+ERROR | 2020-09-20 23:47:51 | [main] javazz.App (App.java:18) - Hello, Worldwill be printed on error
+FATAL | 2020-09-20 23:47:51 | [main] javazz.App (App.java:19) - Hello, Worldwill be printed on fatal
+INFO  | 2020-09-20 23:47:51 | [main] javazz.App (App.java:20) - Appending String Hello, World.
