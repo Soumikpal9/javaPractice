@@ -12,7 +12,7 @@ public class App
     public static void main( String[] args )
     {
     	LOG.info("Here we go");
-	    LOG.info("Hi");
     	LOG.info("Hello, World");
+    	LOG.info("This is Soumik");
     }
 }
