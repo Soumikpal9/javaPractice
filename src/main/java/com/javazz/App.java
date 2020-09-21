@@ -14,5 +14,6 @@ public class App
     	LOG.info("Bye");
 	    LOG.info("Hi");
     	LOG.info("Hello, World");
+    	LOG.info("This is Soumik");
     }
 }
